@@ -1,1 +1,11 @@
-{}
+{
+  "Math": [
+    "leetcode/0231-power-of-two"
+  ],
+  "Bit Manipulation": [
+    "leetcode/0231-power-of-two"
+  ],
+  "Recursion": [
+    "leetcode/0231-power-of-two"
+  ]
+}

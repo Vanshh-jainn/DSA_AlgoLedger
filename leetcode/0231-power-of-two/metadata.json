@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "231",
+  "frontendId": "231",
+  "title": "Power of Two",
+  "slug": "power-of-two",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "companyTags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.9 MB",
+  "submissionId": "2180488379",
+  "acceptedAt": "2026-10-24T14:14:42.716Z",
+  "updatedAt": "2026-10-24T14:14:44.849Z",
+  "url": "https://leetcode.com/problems/power-of-two/",
+  "version": 1
+}

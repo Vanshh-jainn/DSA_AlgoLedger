@@ -1,0 +1,16 @@
+[
+  {
+    "folderId": "leetcode/0231-power-of-two",
+    "frontendId": "231",
+    "title": "Power of Two",
+    "slug": "power-of-two",
+    "difficulty": "Easy",
+    "topics": [
+      "Math",
+      "Bit Manipulation",
+      "Recursion"
+    ],
+    "language": "cpp",
+    "acceptedAt": "2026-10-24T14:14:42.716Z"
+  }
+]
